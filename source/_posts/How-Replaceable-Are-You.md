@@ -1,4 +1,4 @@
-title: "How Replacable Are You?"
+title: "How Replaceable Are You?"
 date: 2015-04-26 12:57:44
 tags: ["Minimum Wage"]
 ---
