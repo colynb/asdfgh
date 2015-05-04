@@ -5,6 +5,12 @@ meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scal
 if config.author
   meta(name='author', content=config.author)
 
+block meta_og
+  meta(name="og:type" content="article")
+  meta(name="og:title" content=page.title)
+  meta(name="og:description" content=config.description)
+  meta(name="og:image" content="http://isitvoluntary.org/img/logo.png")
+
 block page_description
   meta(name='description', content=config.description)
 

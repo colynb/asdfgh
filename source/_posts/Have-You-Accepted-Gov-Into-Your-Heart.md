@@ -1,4 +1,4 @@
-title: "Have You Accepted Guv Into Your Heart?"
+title: "Have You Accepted Gov Into Your Heart?"
 date: 2015-04-26 14:16:42
 tags:
 ---
