@@ -1,11 +1,14 @@
 title: "Costs and Benefits in Voting"
 date: 2015-05-04 10:00:39
-categories: ["Voting"]
+tags:
+    - Voting
 ---
 
 So often I hear friends talk about the problem with the two-party system, how there's not enough choice, it's all rigged, etc, etc. What I think is missing from these discussions is a discussion on the economics of voting. Economics isn't just about money, it's about individuals making choices for themselves on the best use of their limited time and resources. So, the following are just some quick thoughts on why we have a (primarily) two-party system.
 
 The two-party political system is the end result of a cost/benefit analysis individual voters make when deciding on whether or not to head to the ballot box.
+
+**Note: The word "benefit" is synonymous with "value". As value is subjective, I need to be more clear what I mean by benefit. In the context of politics, benefit would mean anything a particular voter values (doesn't matter what), a value he thinks he couldn't get from anywhere else but through the political process. For example, a voter might value more money for his local public school. If he believes politics is the only way to achieve that, then a political benefit for that individual would be more money for schools. However, does he really believe his individual vote makes a difference in swinging the outcome of a vote in his favor?**
 
 Let's face it, your vote has no benefit to yourself. I don't mean that to be cynical. We all know this. Your individual vote does nothing to change the outcome of an election in your favor. Yes there is a situation in which your single vote can be a tie breaker. But the chances of that occurring are virtually zero. You can play the lottery too because there's a chance you could win, but it doesn't change the math. Even with all the propaganda around the benefits of voting, people of every political opinion know their vote doesn't really matter. The perceived benefit of voting and the actual benefit of voting are both exceedingly low.
 
