@@ -4,9 +4,9 @@
 
 # Site
 title: Is it Voluntary?
-subtitle: Rants and notes on Anarchy and Voluntaryism
+subtitle: Thoughts on living a voluntary life in an unfree world
 description:
-author: Colyn Brown
+author: Treacherous Cretin
 language: en
 timezone:
 
@@ -68,7 +68,7 @@ theme: voluntary
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:colynb/isitvoluntary.org.git
+  repo: git@github.com:colynb/asdfgh.git
   branch: gh-pages
   message: deployed!
 
