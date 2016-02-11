@@ -1,25 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Is it Voluntary?]]></title>
-  <subtitle><![CDATA[Rants and notes on Anarchy and Voluntaryism]]></subtitle>
+  <subtitle><![CDATA[Thoughts on living a voluntary life in an involuntary world]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://isitvoluntary.org/"/>
-  <updated>2015-09-17T20:15:56.000Z</updated>
+  <updated>2016-02-11T19:26:20.000Z</updated>
   <id>http://isitvoluntary.org/</id>
   
   <author>
-    <name><![CDATA[Colyn Brown]]></name>
+    <name><![CDATA[Treacherous Cretin]]></name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Time is a Scarce Resource]]></title>
+    <link href="http://isitvoluntary.org/2016/02/11/time-is-a-scarce-resource/"/>
+    <id>http://isitvoluntary.org/2016/02/11/time-is-a-scarce-resource/</id>
+    <published>2016-02-11T07:00:00.000Z</published>
+    <updated>2016-02-11T19:26:20.000Z</updated>
+    <content type="html"><![CDATA[<p>I want to talk about the age-old dilemma of not having enough time, in a way that I think might be unique.</p>
+<p>I often hear people talking about not having enough time to do the things they want to do, especially when comparing themselves to people they perceive to be more successful, or who seem to have more time. Like, if they only had more time, they can work more on their hobbies, spend more time with family, or build a successful business.</p>
+<p>The brutal fact of life is that time is a scarce resource, we only get 24 hours a day — every single one of us. As such, you must economize time in the same way you economize other scarce goods. And like all scarce goods, what we spend it on, must be prioritized. You’re not given a million dollars every day to spend, so you, unfortunately, have to make choices, and what you choose to spend your hard earned but very limited supply of money on is a function of your priorities and values.</p>
+<p>As a quick aside, if you had so much money that you could spend it on anything you wanted, where you didn’t have to choose between one thing or another, it almost paralyzes you. Compare that to only having 100 bucks to your name — it becomes crystal clear what your priorities are. How we manage time is very similar. I look at time like a bag of money that we’re all given the same amount of. It’s not something you find (as in “where do you find the time?”), it’s something you spend.</p>
+<p>So, what are you spending your time on? Whether you are aware of it or not (you might be doing it subconsciously) you are always spending your time in perfect accordance with your personal priorities and values. Every single moment of every single day, you are choosing to spend your time in exactly the way you want it to be spent — congratulations! In every given moment, you are ranking everything you could be doing along a single axis in accordance with your priorities. In every moment, you are choosing to do one thing instead of another thing. Of course, I’m not saying that you’re using your time wisely, and I’m not even saying how you should be spending your time. I just want to make the point that your time is something you own and that you are always spending it on what you want.</p>
+<p>Some of you will automatically recognize this and some of you are right now thinking, how can this be true, you’re thinking there are so many things you’d rather spend your time on. To that, I ask, oh yeah, where’s the proof? You’re lying to yourself. Seriously, stop acting like a slave to time. Just be honest. Where’s the proof you don’t have time when you’re spending it on playing video games? There’s nothing wrong with playing video games, just admit that you prefer that over the other things you say you don’t have time for. Where’s the proof you hate the time you’re spending at a crappy job? You’re still there, being yelled at. If you hate your job, ask yourself, compared to what? If you’re still in a job you say you hate, even with your shitty boss, it must certainly be true that you hate it less than all your other options available to you otherwise you’d be doing one of those other things instead! In other words, flip it around… in the same way, you hate your job relative to the alternatives, it must be equally true that you love your job (including your shitty boss) relative to your alternatives.</p>
+<p>The people you envy are limited by the same 24 hours a day that you are. Fundamentally, what makes them different from you is how they are spending the limited time they are given. It’s possible they just figured out how to use their time more effectively with respect to their values. Just take responsibility for your choices in how you spend your time because you own yourself and your time. Don’t be afraid to admit that you prefer doing what you’re doing at this very moment over all the other possibilities.</p>
+<p>If you truly are doing precisely what you want to be doing at every given moment (and you are), then why do you feel terrible about it? After all, you’re living your values! What could be wrong with that? It could be because you keep making bad choices, not with respect to the here and now, but with respect to your future self. The choices you make today do affect the choices that are available to your future self, so be kind to him. Another possibility to why you feel terrible is that your values are not in alignment with someone else’s values. There is a person (or persons) in your life who thinks you’re not spending your time the way they think you should be, in accordance with their values. This makes you anxious. This is a topic for another post, but why are you choosing to give this person that kind of power over you?</p>
+<p>So, anyway, THANK YOU for choosing to spend a minute reading this instead of playing Call of Duty! I really do appreciate it. You may go now — if that pleases you.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I want to talk about the age-old dilemma of not having enough time, in a way that I think might be unique.</p>
+<p>I often hear people tal]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Economic Law vs the Will of Gov.]]></title>
+    <link href="http://isitvoluntary.org/2016/02/11/economic-law-vs-the-will-of-gov/"/>
+    <id>http://isitvoluntary.org/2016/02/11/economic-law-vs-the-will-of-gov/</id>
+    <published>2016-02-11T07:00:00.000Z</published>
+    <updated>2016-02-11T19:26:20.000Z</updated>
+    <content type="html"><![CDATA[<p>Just came across an article from FEE (Foundation for Economic Freedom) entitled: The Minimum Wage Hurt the Young and Low-Skilled almost as Much as the Recession</p>
+<p>In it, they describe a recent study that points to evidence that the young and low-skilled are the most likely to be negatively affected by minimum wage increases. I have not yet looked into the actual data used to come to this conclusion but actually, it’s something that I’ve concluded for a long time now, simply through logical inference. But thinking about this more as I write this post, I’ve actually had a small epiphany with regard to the law of supply and demand.</p>
+<p>This is a perfect example of why the law of supply and demand is called a law. Often times when we talk about this we talk about it in terms of the cause and effect of changes to either supply or demand to prices, in particular within the context of a free market. Something I’ve not been as familiar with is what the effect is when changes to price itself happen as a result of government interference, that is, forcing a price to be higher than the market price (i.e. the emergent price that occurs when supply and demand changes).</p>
+<p>Thinking about this reminded me of a talk by Milton Friedman where he explained how unions manage to raise the labor price of their members. Within the constraints of supply and demand, there are just a few ways to do this. One way is to reduce the supply of labor. All things being equal, reducing the supply will increase the value, thereby increasing the price. Unions can reduce the supply of labor in a couple of ways: slowing the growth of the labor force, or just by promoting policies that make it more difficult for people to enter the workforce.</p>
+<p>However, affecting supply is just one lever to affect the price. But what happens when price itself is the lever, whereby government interference, the price is raised? Just because it’s the Will of “Gov” doesn’t change the law of supply and demand, that’s why it’s called a law. So if you force the price to be above the market price, the market will only go back into balance when either supply goes down or demand goes up, or some combination of the two. The epiphany I had was that the reason why young and low-skilled workers have a harder time finding jobs as a result of minimum wage hikes, is not simply that higher prices of labor means businesses will hire less, but that the supply had to be reduced, putting the higher price back into equilibrium. The effect of a higher minimum-wage priced the young and low-skilled workers out of the market, reducing the supply, therefore raising the value of the remaining older, higher-skilled workers.</p>
+<p>Thanks for reading. I’m always learning, so if you have anything to correct me on, I’m open to any feedback.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Just came across an article from FEE (Foundation for Economic Freedom) entitled: The Minimum Wage Hurt the Young and Low-Skilled almost a]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[What Wouldn't Jesus Do?]]></title>
     <link href="http://isitvoluntary.org/2015/09/17/What-Wouldn-t-Jesus-Do/"/>
     <id>http://isitvoluntary.org/2015/09/17/What-Wouldn-t-Jesus-Do/</id>
     <published>2015-09-17T18:49:24.000Z</published>
-    <updated>2015-09-17T20:15:56.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p>As an atheist, far be it from me to tell you what a Christian is, I get that. Yet, there’s this persistent, illogical, “Jesus was a socialist” trend among liberals that I feel qualified to speak on. On the face of it, this idea seems to make sense. At least with some cherry-picking, Jesus’ focus on the poor and the “least of these” looks to be aligned perfectly with the liberal agenda. But with just an ounce of thought it immediately begins to break down. Jesus was trying to change the hearts and minds of individuals by modeling his own behavior and love for mankind. He wanted to change society from the bottom up, one individual soul at a time, not from the top down coercive central planning. Also, there is no such thing as a Christian nation, there are only individuals that live within national borders, and it is only they who have beliefs. Nations do not have souls. Personifying abstract notions like nations, especially within politics, is pure rhetoric, designed to block you from thinking logically about problems and their solutions. As such, you work to change the hearts of real people, individual by individual, not nations through political violence.</p>
 <p>You want others to care about the poor as deeply as you say you do? How about you get off your high horse, stop pointing the government guns at people, through coercive central planning, go help the poor with your own time and energy, and model the behavior you want to see in the world. What would Jesus do? I don’t know, but I know what he wouldn’t be doing.</p>
 <p>Lastly, <a href="http://voluntaryist.com/fundamentals/introduction.html" target="_blank" rel="external">Voluntaryism</a> is the only rational, nonmagical approach to fixing society. It’s not a silver bullet as it requires changing hearts and minds, and sadly that’s just too much work for most people. Easier to point guns than it is to persuade.</p>
@@ -35,7 +77,7 @@
     <link href="http://isitvoluntary.org/2015/05/30/I-like-to-pay-my-taxes/"/>
     <id>http://isitvoluntary.org/2015/05/30/I-like-to-pay-my-taxes/</id>
     <published>2015-05-31T01:22:06.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p><a href="https://imgflip.com/i/m6r1b" target="_blank" rel="external"><img src="https://i.imgflip.com/m6r1b.jpg" title="made at imgflip.com"></a></p>
 ]]></content>
     <summary type="html">
@@ -53,7 +95,7 @@
     <link href="http://isitvoluntary.org/2015/05/16/How-Much-is-it-Worth-to-You/"/>
     <id>http://isitvoluntary.org/2015/05/16/How-Much-is-it-Worth-to-You/</id>
     <published>2015-05-16T16:35:53.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p>“Who will build the roads?”</p>
 <p>Lots of people have all kinds of legitimate questions about life in a stateless society. The obvious being about the roads. It’s a fair question. Other questions around crime, justice, foreign defense, welfare, disease, are all equally valid questions. Rather than describing in detail what the free market might be able to come up with to solve these issues (because it’s already been done, there’s a lot of information you can get from Google if you’re interested), I’ve come up with a fairly succinct <em>most honest</em> response to anyone who asks such questions:</p>
 <p><strong>“I don’t know. How much is it worth to you?”</strong></p>
@@ -84,7 +126,7 @@
     <link href="http://isitvoluntary.org/2015/05/05/Democracy/"/>
     <id>http://isitvoluntary.org/2015/05/05/Democracy/</id>
     <published>2015-05-05T16:37:42.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Democracy: some random dude gets to check a box and decide how you live YOUR life.</strong></p>
 <p>Without making claims on how democracy really works or taking a controversial position on democracy, just taking the conventional view of democracy, under the best light and distilling it down to its logical conclusion, what can be said? All that can really be said is that some random stranger, whose intentions are unknown, whose education and background are unknown, is given the high privilege of going to the ballot <em>in secret</em>, checking a box, and making decisions on how <em>you</em> should live <em>your</em> life.</p>
 <p>Why is this acceptable to you? Seriously think about this question. The average “citizen” cares more about the gender of Bruce Jenner than they do about your life. Yet they get to make decisions on how your children are educated, who you’re allowed trade with, who you’re allowed to marry, what you’re allowed to do with your own body, how you should spend your money, and the list goes on and on. And if you don’t comply, it’s acceptable that these same people get to delegate the right (a right they do not have) to kidnap you and put you into a cage, and possibly murder you if you resist. Why is this considered civilized? </p>
@@ -105,7 +147,7 @@
     <link href="http://isitvoluntary.org/2015/05/04/Costs-and-Benefits-in-Voting/"/>
     <id>http://isitvoluntary.org/2015/05/04/Costs-and-Benefits-in-Voting/</id>
     <published>2015-05-04T17:00:39.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p>So often I hear friends talk about the problem with the two-party system, how there’s not enough choice, it’s all rigged, etc, etc. What I think is missing from these discussions is a discussion on the economics of voting. Economics isn’t just about money, it’s about individuals making choices for themselves on the best use of their limited time and resources. So, the following are just some quick thoughts on why we have a (primarily) two-party system.</p>
 <p>The two-party political system is the end result of a cost/benefit analysis individual voters make when deciding on whether or not to head to the ballot box.</p>
 <p><strong>Note: The word “benefit” is synonymous with “value”. As value is subjective, I need to be more clear what I mean by benefit. In the context of politics, benefit would mean anything a particular voter values (doesn’t matter what), a value he thinks he couldn’t get from anywhere else but through the political process. For example, a voter might value more money for his local public school. If he believes politics is the only way to achieve that, then a political benefit for that individual would be more money for schools. However, does he really believe his individual vote makes a difference in swinging the outcome of a vote in his favor?</strong></p>
@@ -127,7 +169,7 @@
     <link href="http://isitvoluntary.org/2015/04/26/Have-You-Accepted-Gov-Into-Your-Heart/"/>
     <id>http://isitvoluntary.org/2015/04/26/Have-You-Accepted-Gov-Into-Your-Heart/</id>
     <published>2015-04-26T21:16:42.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p><blockquote class="twitter-tweet" lang="en"><p><a href="http://t.co/XsWJMnvzrr" target="_blank" rel="external">pic.twitter.com/XsWJMnvzrr</a></p>&mdash; Not Being Governed (@ArtofNBG) <a href="https://twitter.com/ArtofNBG/status/590198421631414273" target="_blank" rel="external">April 20, 2015</a></blockquote></p>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
     <summary type="html">
@@ -143,7 +185,7 @@
     <link href="http://isitvoluntary.org/2015/04/26/Become-Your-Own-Master/"/>
     <id>http://isitvoluntary.org/2015/04/26/Become-Your-Own-Master/</id>
     <published>2015-04-26T21:14:37.000Z</published>
-    <updated>2015-09-12T21:29:38.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p><blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/trutherbot?src=hash" target="_blank" rel="external">#trutherbot</a> get it trending <a href="http://t.co/VmARieFcqY" target="_blank" rel="external">pic.twitter.com/VmARieFcqY</a></p>&mdash; Swade Biscuit (@BreadSage) <a href="https://twitter.com/BreadSage/status/591624420692664320" target="_blank" rel="external">April 24, 2015</a></blockquote></p>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
     <summary type="html">
@@ -159,7 +201,7 @@
     <link href="http://isitvoluntary.org/2015/04/26/How-Replaceable-Are-You/"/>
     <id>http://isitvoluntary.org/2015/04/26/How-Replaceable-Are-You/</id>
     <published>2015-04-26T19:57:44.000Z</published>
-    <updated>2015-09-12T21:29:39.000Z</updated>
+    <updated>2016-02-11T19:26:20.000Z</updated>
     <content type="html"><![CDATA[<p>Your wage, the amount you get paid is the price of your labor. Prices are determined by the relationship between supply and demand. Thus the price of your labor is affected by the supply of labor and demand for labor. All other things being equal, if the supply of labor in a particular sector is low, that is, there aren’t enough skilled workers to meet demand, then the price of labor will be high. Inversely, if the supply of labor is high, that is, there are more than enough laborers to meet demand, then the price for that labor will be low.</p>
 <p>It’s no coincidence that those who fight for minimum wage laws, are those who are in industries with very large supplies of labor, where as a natural consequence of the bidding process, the prices are kept low. Instead of increasing your skills making your labor relatively in lower supply (increasing your value, thus increasing your price), the usual scape goat is the fat greedy capitalist. But given what we know about supply and demand, why should this be the case? If a large shipment of apples were to make their way into the marketplace, their price will likely go down. The lower price you pay means in the short term, you profit from that lower price. The apple seller makes less money per apple, this is true, but why aren’t you as a consumer of apples fighting to ensure the price of apples is kept high? Are you greedy?</p>
 <p>Minimum wage laws are a violent and ineffective way to raise the price of labor. The laws of supply and demand don’t magically disappear because you point a gun at it demanding compliance. To know why, ask yourself what you’d do if the government enforced a higher price for apples, and, is the apple seller better off or worse off as a result?</p>
