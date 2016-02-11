@@ -484,9 +484,9 @@ hr {
   border-top: dotted 0.075em #555555;
   height: 1.5em;
 }
-/* 
+/*
 
-	
+
 	|Globals
 
 */
@@ -496,7 +496,7 @@ hr {
 #masthead {
   width: 60%;
   max-width: 54rem;
-  margin: 3em 0 0 3rem;
+  margin: 3em auto;
   overflow: auto;
 }
 #site-title {
@@ -558,7 +558,7 @@ article h2,
 #content article {
   width: 60%;
   max-width: 54rem;
-  margin: 0 0 0 3rem;
+  margin: 0 auto;
   position: relative;
 }
 article h3 {
@@ -605,7 +605,7 @@ td.code {
   height: 100px;
   width: 60%;
   max-width: 54rem;
-  margin: 0 3rem 0 3rem;
+  margin: 0 auto;
   position: relative;
   font-size: 0.75em;
 }
@@ -640,7 +640,7 @@ td.code {
   float: left;
   margin-right: 1rem;
 }
-/* 
+/*
 
 
   |Media Queries
