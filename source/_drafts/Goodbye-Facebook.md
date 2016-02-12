@@ -1,0 +1,10 @@
+title: Facebook
+date: 2016-02-11 17:49:53
+tags:
+---
+
+I just deactivated my Facebook account. Basically what that means is that my account is still available but to everyone else, my account is no longer accessible. The moment I log back in, it becomes active again. I did this a couple months ago for a full week and overall it was a good experience. I can tell I have developed a habit of frequently logging in to see new memes and videos on my wall from friends and family. It was hard not to log in but I did it for a full week. One of the reasons why I deactivated the account rather than just not logging in, is because I just don't want my posts and pics to be accessible while I'm going through this transition. So anyway, I'm doing it again, but this time, with the goal of completely deleting the account.
+
+I'm struggling with whether or not this decision is a rational one. I was unfriended this morning by someone who I used to work with and whom I got along with quite well. I really like him but he posted a question that struck me as funny. He's basically an undecided voter and was looking for positive opinions regarding his friends favorite candidates instead of the negative opinions on candidates his friends hate he usually observes. Fair enough question if it weren't for the fact that every single one of the candidates is terrible. I responded to him by telling him that it's a simple choice. Choose the candidate who will not raise my taxes as much as the other guy. Or if you prefer a candidate who wants to raise my taxes, higher than the other guy, choose the other guy instead and then voluntarily offer to give more in taxes from your own paycheck instead of coercing it from my paycheck. He called me a troll. I responded that he's like someone looking for advice on how to decide between vanilla/lima-bean flavored ice cream and chocolate/broccoli flavored ice cream. I was unfriended. I didn't intend for that be a direct insult to him but rather a comment on the state of politics today in general.
+
+As a result, 
